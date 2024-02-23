@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Oleksandr Yastrebov</h1>
 
-- 🌱 I’m currently learning **Zabbix/DevOps tools**
+- 🌱 I’m currently learning **Python/FastAPI/Microsoft365**
 
 - 💬 Ask me about **CCNA, Computer Network, Hardware**
 
