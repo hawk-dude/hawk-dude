@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Oleksandr Yastrebov</h1>
 
-- 🌱 I’m currently learning **Python/FastAPI/Microsoft365**
+- 🌱 I’m currently learning **Linux/Java/CyberSecurity**
 
 - 💬 Ask me about **CCNA, Computer Network, Hardware**
 
